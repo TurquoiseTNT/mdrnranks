@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Made By TurquoiseTNT, Forked from Nautical Ranks",
+    "name": "mdrnRanks",
+    "uuid": "1b431b4c-7591-41af-8be1-5d9cb2249812",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d49bd7f2-6e3e-40c0-9eaa-263c41bcc83f",
+      "version": [0, 0, 1]
+    }
+  ]
+}
